@@ -1,10 +1,6 @@
 class utils:
     def reversed(self, num):
-        reverse = 0
-        while num > 0:
-            remainder = num % 10
-            reverse = (reverse * 10) + remainder
-            num = num // 10
+        reverse = int(str(num)[::-1])
         return reverse
     
     def formatter(self, num):
