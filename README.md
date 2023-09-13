@@ -5,3 +5,5 @@
 ![image](https://github.com/kbkbShang/ECE444-F2023-Assignment1/assets/77422193/d19d4e01-ca13-4489-a329-aca296fdc8fc)
 ## Activity 3
 ![image](https://github.com/kbkbShang/ECE444-F2023-Assignment1/assets/77422193/4162f10d-0dee-47f5-8f9f-439f92ae131d)
+## Activity 4
+![image](https://github.com/kbkbShang/ECE444-F2023-Assignment1/assets/77422193/ec53ba95-0983-4339-b6a3-d4196840f738)
